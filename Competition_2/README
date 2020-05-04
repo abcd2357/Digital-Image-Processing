@@ -1,0 +1,9 @@
+# EE569 Competition #2
+# Name: XU Kangyan
+# ID: 4876010998
+# Email: kangyanx@usc.edu
+# Date: May 3, 2020
+
+# Model.py includes Module 1, after training, output is the model "PixelHop.pickle".
+# Model_M2.py includes Module 2 & 3, it reads "PixelHop.pickle", do following training and testing.
+# needs file "cifar-10-python.tar.gz" to run.
